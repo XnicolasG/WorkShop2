@@ -23,7 +23,15 @@ margin-bottom: 360px;
 
 `
 
-export const BotonHtml = styled.div`
+export const Img1 = styled.img`
+
+width: 100px
+
+`
+
+
+
+
 
 export const BotonJs = styled.div`
     

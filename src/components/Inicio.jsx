@@ -6,6 +6,7 @@ import {
   BotonHtml,
   BotonCSS,
   BotonJs,
+  Img1,
 } from "../style/StyledInicio";
 
 const Inicio = () => {
@@ -15,10 +16,11 @@ const Inicio = () => {
 
       <BotonHtml>
         <Link to="#" onClick>
-          <img
+          <Img1><img
             src="https://res.cloudinary.com/dlkynkfvq/image/upload/v1643380129/workshop-2/HTMLLOGO_rjxhd3.png"
-            alt="HTML"
-          />
+            alt="HTML"/>
+            </Img1>
+          
         </Link>
       </BotonHtml>
 
