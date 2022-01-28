@@ -1,10 +1,11 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { BrowserRouter, Link } from 'react-router-dom';
 import { ContImg, ContIni, Formato, Inputs, Logo, Olvido, Titulo } from '../style/StyledCont';
 import '../style/StyledEntrar.css'
 const Container = () => {
 
     return (
+       
         <ContIni>
             <Formato>
                 <ContImg>
@@ -22,6 +23,7 @@ const Container = () => {
                 </center>
             </Formato>
         </ContIni>
+        
     );
 };
 

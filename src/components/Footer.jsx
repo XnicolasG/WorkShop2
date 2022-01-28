@@ -1,5 +1,7 @@
 import React from 'react';
-import { ImgenIcon, Item } from '../Styles/StyledFooter';
+
+
+
 
 export const FooterCont = () => {
   return (
