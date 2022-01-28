@@ -16,3 +16,14 @@ export const BotonHtml = styled.div`
     
 
 `
+
+export const BotonJs = styled.div`
+    
+    
+
+`
+export const BotonCSS = styled.div`
+    
+    
+
+`
