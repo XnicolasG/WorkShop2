@@ -13,10 +13,16 @@ export const Mensaje = styled.h2`
 
 export const BotonHtml = styled.div`
     
-    
+    display: flex;
+align-items: center;
+flex-direction: column;
+margin-top: 241px;
+margin-left: 80px;
+margin-right: 80px;
+margin-bottom: 360px;
+
 
 `
-
 export const BotonJs = styled.div`
     
     
@@ -27,7 +33,3 @@ export const BotonCSS = styled.div`
     
 
 `
-<<<<<<< HEAD
-
-=======
->>>>>>> 1caddeac1aeb16573765bc389d574f1afd83a64c

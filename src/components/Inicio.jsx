@@ -10,18 +10,12 @@ import {
 
 const Inicio = () => {
   return (
-<<<<<<< HEAD
-  <ContInit>
-      <Mensaje>Practica tus conocimientos en la categoría que prefieras.</Mensaje>
-
-      
-=======
+   
     <ContInit>
       <Mensaje>
         Practica tus conocimientos en la categoría que prefieras.
       </Mensaje>
 
->>>>>>> 1caddeac1aeb16573765bc389d574f1afd83a64c
       <BotonHtml>
         <Link to="#" onClick>
           <img
@@ -40,23 +34,13 @@ const Inicio = () => {
         </Link>
       </BotonJs>
 
-<<<<<<< HEAD
 <BotonCSS>
 <Link to = "#" onClick = {toPage()}><img src="https://res.cloudinary.com/dlkynkfvq/image/upload/v1643380233/workshop-2/CssLogo_vpj0p1.png" alt="CSS" /></Link>
 </BotonCSS>
-</ContInit>  
+  
 
-=======
-      <BotonCSS>
-        <Link to="#" onClick>
-          <img
-            src="https://res.cloudinary.com/dlkynkfvq/image/upload/v1643380233/workshop-2/CssLogo_vpj0p1.png"
-            alt="CSS"
-          />
-        </Link>
-      </BotonCSS>
+    
     </ContInit>
->>>>>>> 1caddeac1aeb16573765bc389d574f1afd83a64c
   );
 };
 
