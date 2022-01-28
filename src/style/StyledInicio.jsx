@@ -34,3 +34,7 @@ export const BotonCSS = styled.div`
     
 
 `
+<<<<<<< HEAD
+
+=======
+>>>>>>> 1caddeac1aeb16573765bc389d574f1afd83a64c
