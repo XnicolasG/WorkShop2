@@ -9,7 +9,25 @@ export const Mensaje = styled.h2`
     color: white;
     text-align: center;
     padding-top: 100px;
+    `
+
+export const BotonHtml = styled.div`
+    
     
 
 `
 
+export const BotonJs = styled.div`
+    
+    
+
+`
+export const BotonCSS = styled.div`
+    
+    
+
+`
+<<<<<<< HEAD
+
+=======
+>>>>>>> 1caddeac1aeb16573765bc389d574f1afd83a64c
