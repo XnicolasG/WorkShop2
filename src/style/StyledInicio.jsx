@@ -5,3 +5,6 @@ export const ContInit = styled.div`
     width: 100%;
     height: 100vh;
 `
+export const Mensaje = styled.h2`
+    color: white;
+`

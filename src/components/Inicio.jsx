@@ -1,12 +1,12 @@
 import React from 'react';
-import { ContInit } from '../style/StyledInicio';
+import { ContInit, Mensaje } from '../style/StyledInicio';
 
 
 const Inicio = () => {
 
   return (
   <ContInit>
-      <h2>Hola</h2>
+      <Mensaje>Practica tus conocimientos en la categoría que prefieras.</Mensaje>
     
   </ContInit>
   );
