@@ -8,10 +8,12 @@ export const ContInit = styled.div`
 export const Mensaje = styled.h2`
     color: white;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 115px;
+    padding-right: 200px;
+    padding-left: 200px;
     `
 
-export const BotonHtml = styled.div`
+export const Botones = styled.div`
     
     display: flex;
 align-items: center;
@@ -20,26 +22,5 @@ margin-top: 241px;
 margin-left: 80px;
 margin-right: 80px;
 margin-bottom: 360px;
-
-`
-
-export const Img1 = styled.img`
-
-width: 100px
-
-`
-
-
-
-
-
-export const BotonJs = styled.div`
-    
-    
-
-`
-export const BotonCSS = styled.div`
-    
-    
 
 `
