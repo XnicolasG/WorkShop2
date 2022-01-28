@@ -33,3 +33,12 @@ export const Inputs = styled.input`
     border-radius: 5px;
     margin-bottom: 2%;
 `
+export const Olvido = styled.p`
+    color: #2CB67D;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 5%;
+    :hover{
+        text-decoration: underline;
+    }
+`
