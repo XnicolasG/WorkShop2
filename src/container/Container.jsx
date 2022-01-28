@@ -18,7 +18,7 @@ const Container = () => {
                 <Inputs type="password" placeholder='Ingresa tu contraseña' />
                 <Olvido>¿Se te olvido la contraseña?</Olvido>
                 <center>
-                    <Link className='entrar' to="/entrar">Entrar</Link>
+                    <Link className='entrar' to='/Inicio'>Inicio</Link>
                 </center>
             </Formato>
         </ContIni>

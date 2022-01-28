@@ -3,7 +3,9 @@ import React from 'react';
 const Inicio = () => {
 
   return (
-  <div></div>
+  <ContInit>
+      <h2>Hola</h2>
+  </ContInit>
   );
 };
 

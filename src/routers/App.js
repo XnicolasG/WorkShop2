@@ -1,4 +1,5 @@
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
+import Inicio from '../components/Inicio';
 import Container from '../container/Container';
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
         
         <Routes>
           <Route path="/" element={<Container />} />
+          <Route path="/Inicio" element={<Inicio />}/>
         </Routes>
       </BrowserRouter>
     </div>
