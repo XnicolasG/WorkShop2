@@ -7,4 +7,8 @@ export const ContInit = styled.div`
 `
 export const Mensaje = styled.h2`
     color: white;
+    text-align: center;
+    padding-top: 100px;
+    
+
 `
