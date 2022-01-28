@@ -21,8 +21,9 @@ margin-left: 80px;
 margin-right: 80px;
 margin-bottom: 360px;
 
-
 `
+
+export const BotonHtml = styled.div`
 
 export const BotonJs = styled.div`
     
