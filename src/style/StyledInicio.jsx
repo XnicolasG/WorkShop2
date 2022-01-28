@@ -9,6 +9,10 @@ export const Mensaje = styled.h2`
     color: white;
     text-align: center;
     padding-top: 100px;
+    `
+
+export const BotonHtml = styled.div`
+    
     
 
 `
