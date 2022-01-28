@@ -7,7 +7,7 @@ const Inicio = () => {
   return (
   <ContInit>
       <Mensaje>Practica tus conocimientos en la categoría que prefieras.</Mensaje>
-    
+        
   </ContInit>
   );
 };
