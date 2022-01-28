@@ -13,7 +13,14 @@ export const Mensaje = styled.h2`
 
 export const BotonHtml = styled.div`
     
-    
+    display: flex;
+align-items: center;
+flex-direction: column;
+margin-top: 241px;
+margin-left: 80px;
+margin-right: 80px;
+margin-bottom: 360px;
+
 
 `
 
